@@ -1,0 +1,4 @@
+2020-04-29T15:29:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\nikshopper\wp-includes\class-wp-theme.php on line 1207
+
+2020-04-29T15:29:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\nikshopper\wp-includes\Requests\Transport\cURL.php on line 441
+

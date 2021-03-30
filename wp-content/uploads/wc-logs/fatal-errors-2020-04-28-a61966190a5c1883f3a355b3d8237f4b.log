@@ -1,0 +1,14 @@
+2020-04-28T12:14:25+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in D:\xampp\htdocs\nikshopper\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 20
+
+2020-04-28T12:14:27+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in D:\xampp\htdocs\nikshopper\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 20
+
+2020-04-28T12:14:27+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in D:\xampp\htdocs\nikshopper\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 20
+
+2020-04-28T12:16:14+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in D:\xampp\htdocs\nikshopper\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 20
+
+2020-04-28T12:16:17+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in D:\xampp\htdocs\nikshopper\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 20
+
+2020-04-28T12:16:17+00:00 CRITICAL The SG Optimizer plugin is designed to work only on SiteGround Servers. in D:\xampp\htdocs\nikshopper\wp-content\plugins\sg-cachepress\core\Activator\Activator.php on line 20
+
+2020-04-28T12:35:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\nikshopper\wp-includes\Requests\Transport\cURL.php on line 463
+
